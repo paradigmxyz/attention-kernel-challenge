@@ -1,0 +1,7 @@
+.DS_Store
+.venv/
+.attention_kernel_challenge/
+__pycache__/
+*.egg-info/
+best_submission/
+notes/
